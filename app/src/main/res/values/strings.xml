@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">さやちゃん</string>
     <string name="tv_msg">名前を入力してください</string>
+    <string name="bt_save">保存</string>
+    <string name="cb_sleep">睡眠</string>
+    <string name="cb_eat">食事</string>
 </resources>
