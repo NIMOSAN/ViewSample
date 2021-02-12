@@ -4,4 +4,16 @@
     <string name="bt_save">保存</string>
     <string name="cb_sleep">睡眠</string>
     <string name="cb_eat">食事</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+
+    <string-array name="myHobby">
+        <item>寝る</item>
+        <item>ゲーム</item>
+        <item>読書</item>
+        <item>ネコ</item>
+        <item>モバレ</item>
+        <item>Warframe</item>
+        <item>ご飯</item>
+    </string-array>
 </resources>
